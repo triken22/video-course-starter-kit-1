@@ -4,20 +4,19 @@ const Footer = () => (
   >
     <div className="text-center lg:text-left">
       <p className="font-cal text-lg sm:text-2xl text-black">
-        Video Course Starter Kit Demo
+        HIGH FIVE MVP
       </p>
       <p
         className="text-sm text-gray-700 mt-2 lg:mt-0"
       >
-        This is a demo site showcasing how to build a video course
-        starter kit with{" "}
+        Login To Start Your Financial Education Journey{" "}
         <a
           className="text-black font-semibold underline"
           href="https://mux.com?utm_source=video-course-starter-kit"
           rel="noreferrer"
           target="_blank"
         >
-          Mux
+          HIGH FIVE
         </a>{" "}
         .
       </p>
@@ -31,7 +30,7 @@ const Footer = () => (
         rel="noreferrer"
         target="_blank"
       >
-        Clone and deploy
+        Start Learning
       </a>
     </div>
   </footer>

@@ -43,7 +43,7 @@ const Nav = () => {
                 width={100}
               />
               <span className="inline-block ml-3 font-medium truncate text-slate-700">
-                Video Course Starter Kit
+                MVP
               </span>
             </a>
           </Link>
