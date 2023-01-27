@@ -5,5 +5,6 @@ const config = {
 }
 
 const conn = connect(config)
+console.log("conn", conn)
 
 export default conn;
