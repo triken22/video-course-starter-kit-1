@@ -65,7 +65,8 @@ const AdminNewLesson: NextPage<AdminNewLessonPageProps> = ({ uploadUrl, uploadId
   };
 
   return (
-    <>
+    console.log(uploadUrl),
+        <>
       <Heading>New lesson</Heading>
       <FormProvider {...methods}>
         <form className='flex flex-col max-w-xl' onSubmit={methods.handleSubmit(onSubmit)}>
